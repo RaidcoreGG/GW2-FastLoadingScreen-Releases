@@ -22,18 +22,18 @@ The same functionality used to exist within ArcDPS but was removed - as far as w
 
 ## Limitations
 - Loading screens aren't skipped entirely but on average take 2 seconds.
-- Disabled in PvP and WvW gamemodes, with the exception of the PvP lobby.
-- Spamming lots of loading screens will result in longer ones, as you will spam the server with requests and you will be limited.
+- Disabled in PvP and WvW gamemodes. Exceptions are Armistice Bastion and Obsidian Sanctum.
+- Spamming lots of loading screens will result in longer ones, as you will spam the server with requests and you will be limited by the server, way before any skipping takes place.
 
 ## Is it safe to use?
 *Probably.*  
 As mentioned before, ArcDPS had the same functionality but removed it for other reasons.
 The Guild Wars 2 Terms of Service state that any reverse engineering or memory reading/writing are explicitly forbidden.  
 This makes addons like ArcDPS, DRF or Unofficial Extras illegal by default.
-However since those are widely spread the statement should be taken with a grain of salt.  
+However since those are widely spread and even used by ArenaNet developers the statement should be taken with a grain of salt.  
 What is actually important is the fact that it does not give any advantage. Refer to [https://help.guildwars2.com/hc/en-us/articles/360013625034-Policy-Third-Party-Programs](https://help.guildwars2.com/hc/en-us/articles/360013625034-Policy-Third-Party-Programs).
 As a matter of fact, you can achieve similar load times by buying very good hardware, therefore giving lower-end machines the ability to be "on par" does not constitute an advantage in our eyes.
-If you believe this addon should be removed, we'd be happy to hear your reasons.
+If you believe this addon should be removed, we'd be happy to hear your reasons as the perception of the community arguably matters most.
 
 # To ArenaNet
 ## Please direct any concerns or takedown requests to [contact@raidcore.gg](mailto:contact@raidcore.gg). Any ArenaNet employee who wants to review the implementation may also contact us at the aforementioned email address to gain access.
